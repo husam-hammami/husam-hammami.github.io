@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "atlases": {
+    "exterior": {
+      "file": "store-exterior-gi.rgbm.webp",
+      "range": 1.0,
+      "size": 2048
+    },
+    "interior": {
+      "file": "store-interior-gi.rgbm.webp",
+      "range": 1.85,
+      "size": 1024
+    },
+    "courtyard": {
+      "file": "courtyard-gi.rgbm.webp",
+      "range": 1.0,
+      "size": 1024
+    }
+  },
+  "courtyardUv2": "courtyard-uv2.bin.gz",
+  "courtyardMeshes": {
+    "court-paving:courtyard-grout": {
+      "vertexOffset": 0,
+      "vertexCount": 36
+    },
+    "court-paving:courtyard-field": {
+      "vertexOffset": 36,
+      "vertexCount": 3492
+    },
+    "court-paving:courtyard-black": {
+      "vertexOffset": 3528,
+      "vertexCount": 576
+    },
+    "court-paving:courtyard-white": {
+      "vertexOffset": 4104,
+      "vertexCount": 288
+    },
+    "court-paving:courtyard-brown": {
+      "vertexOffset": 4392,
+      "vertexCount": 288
+    },
+    "court-iwan:courtyard-plaster": {
+      "vertexOffset": 4680,
+      "vertexCount": 840
+    },
+    "court-iwan:courtyard-brown": {
+      "vertexOffset": 5520,
+      "vertexCount": 4044
+    },
+    "court-iwan:courtyard-travertine": {
+      "vertexOffset": 9564,
+      "vertexCount": 12720
+    },
+    "court-iwan:courtyard-black": {
+      "vertexOffset": 22284,
+      "vertexCount": 2724
+    },
+    "court-iwan:courtyard-white": {
+      "vertexOffset": 25008,
+      "vertexCount": 2700
+    },
+    "court-iwan:courtyard-walnut": {
+      "vertexOffset": 27708,
+      "vertexCount": 21240
+    },
+    "court-iwan:courtyard-ink": {
+      "vertexOffset": 48948,
+      "vertexCount": 1800
+    },
+    "court-fountain:courtyard-travertine": {
+      "vertexOffset": 50748,
+      "vertexCount": 576
+    },
+    "court-fountain:courtyard-black": {
+      "vertexOffset": 51324,
+      "vertexCount": 576
+    },
+    "court-fountain:courtyard-brown": {
+      "vertexOffset": 51900,
+      "vertexCount": 720
+    },
+    "court-fountain:courtyard-white": {
+      "vertexOffset": 52620,
+      "vertexCount": 576
+    },
+    "court-fountain:courtyard-wetstone": {
+      "vertexOffset": 53196,
+      "vertexCount": 288
+    },
+    "court-fountain:courtyard-bed": {
+      "vertexOffset": 53484,
+      "vertexCount": 96
+    },
+    "court-fountain:courtyard-field": {
+      "vertexOffset": 53580,
+      "vertexCount": 144
+    },
+    "court-fountain:courtyard-brown#1": {
+      "vertexOffset": 53724,
+      "vertexCount": 1680
+    },
+    "court-fountain:courtyard-brass": {
+      "vertexOffset": 55404,
+      "vertexCount": 960
+    },
+    "court-planters:courtyard-earth": {
+      "vertexOffset": 56364,
+      "vertexCount": 36
+    },
+    "court-planters:courtyard-travertine": {
+      "vertexOffset": 56400,
+      "vertexCount": 144
+    },
+    "court-planters:courtyard-white": {
+      "vertexOffset": 56544,
+      "vertexCount": 3600
+    },
+    "court-seating:courtyard-travertine": {
+      "vertexOffset": 60144,
+      "vertexCount": 900
+    },
+    "court-seating:courtyard-black": {
+      "vertexOffset": 61044,
+      "vertexCount": 36
+    },
+    "court-seating:courtyard-walnut": {
+      "vertexOffset": 61080,
+      "vertexCount": 33216
+    },
+    "court-seating:courtyard-wool": {
+      "vertexOffset": 94296,
+      "vertexCount": 900
+    },
+    "court-seating:courtyard-stripe": {
+      "vertexOffset": 95196,
+      "vertexCount": 5400
+    },
+    "court-seating:courtyard-indigo": {
+      "vertexOffset": 100596,
+      "vertexCount": 1800
+    },
+    "court-seating:courtyard-kilim": {
+      "vertexOffset": 102396,
+      "vertexCount": 1800
+    },
+    "court-seating:courtyard-brass": {
+      "vertexOffset": 104196,
+      "vertexCount": 7188
+    },
+    "court-seating:courtyard-painted": {
+      "vertexOffset": 111384,
+      "vertexCount": 108
+    },
+    "court-seating:courtyard-copper": {
+      "vertexOffset": 111492,
+      "vertexCount": 3240
+    },
+    "court-seating:courtyard-white": {
+      "vertexOffset": 114732,
+      "vertexCount": 576
+    },
+    "Rear terrace arcades:terrace-floor": {
+      "vertexOffset": 115308,
+      "vertexCount": 72
+    },
+    "Rear terrace arcades:terrace-flags": {
+      "vertexOffset": 115380,
+      "vertexCount": 3780
+    },
+    "Rear terrace arcades:terrace-black": {
+      "vertexOffset": 119160,
+      "vertexCount": 900
+    },
+    "Rear terrace arcades:terrace-white": {
+      "vertexOffset": 120060,
+      "vertexCount": 8100
+    },
+    "Rear terrace arcades:terrace-stone": {
+      "vertexOffset": 128160,
+      "vertexCount": 86544
+    },
+    "Rear terrace arcades:terrace-metal": {
+      "vertexOffset": 214704,
+      "vertexCount": 294072
+    },
+    "Rear terrace arcades:terrace-ink": {
+      "vertexOffset": 508776,
+      "vertexCount": 52530
+    },
+    "Rear terrace arcades:terrace-wood": {
+      "vertexOffset": 561306,
+      "vertexCount": 176400
+    },
+    "Rear terrace arcades:terrace-steel": {
+      "vertexOffset": 737706,
+      "vertexCount": 245700
+    }
+  }
+}

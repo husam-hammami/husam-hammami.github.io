@@ -1,0 +1,56 @@
+{
+  "resolution": [
+    256,
+    128
+  ],
+  "modes": [
+    "day",
+    "evening"
+  ],
+  "probes": {
+    "day": {
+      "overview": {
+        "file": "day/overview.rgbm.webp",
+        "range": 2.627
+      },
+      "yard": {
+        "file": "day/yard.rgbm.webp",
+        "range": 2.627
+      },
+      "courtyard": {
+        "file": "day/courtyard.rgbm.webp",
+        "range": 2.6151
+      },
+      "iwan": {
+        "file": "day/iwan.rgbm.webp",
+        "range": 2.9395
+      },
+      "workshop": {
+        "file": "day/workshop.rgbm.webp",
+        "range": 2.8613
+      }
+    },
+    "evening": {
+      "overview": {
+        "file": "evening/overview.rgbm.webp",
+        "range": 1.0
+      },
+      "yard": {
+        "file": "evening/yard.rgbm.webp",
+        "range": 1.0
+      },
+      "courtyard": {
+        "file": "evening/courtyard.rgbm.webp",
+        "range": 1.0
+      },
+      "iwan": {
+        "file": "evening/iwan.rgbm.webp",
+        "range": 2.9042
+      },
+      "workshop": {
+        "file": "evening/workshop.rgbm.webp",
+        "range": 1.3232
+      }
+    }
+  }
+}

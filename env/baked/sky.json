@@ -1,0 +1,17 @@
+{
+  "width": 1536,
+  "height": 2048,
+  "colorSpace": "srgb-linear",
+  "mapping": 306,
+  "flipY": false,
+  "minFilter": 1006,
+  "magFilter": 1006,
+  "file": "sky-bf9f2baee31e.rgba16f.bin",
+  "sha256": "bf9f2baee31e99fcd413ee6bc20faa628ad223fc61f9d8442cc374b678b4565e",
+  "source": "Existing kloofendal HDR, clamp=6, PMREM.fromEquirectangular",
+  "generator": "tools/bake-environments.mjs",
+  "type": "HalfFloatType",
+  "channels": 4,
+  "encoding": "gzip",
+  "byteLength": 25165824
+}

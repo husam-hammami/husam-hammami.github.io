@@ -1,0 +1,112 @@
+{
+  "resolution": [
+    256,
+    128
+  ],
+  "modes": [
+    "day",
+    "evening"
+  ],
+  "probes": {
+    "day": {
+      "overview": {
+        "file": "day/overview.rgbm.webp",
+        "range": 3.1034
+      },
+      "entrance": {
+        "file": "day/entrance.rgbm.webp",
+        "range": 3.1348
+      },
+      "guest-bath": {
+        "file": "day/guest-bath.rgbm.webp",
+        "range": 2.7246
+      },
+      "reception": {
+        "file": "day/reception.rgbm.webp",
+        "range": 2.9004
+      },
+      "kitchen": {
+        "file": "day/kitchen.rgbm.webp",
+        "range": 3.9199
+      },
+      "hall": {
+        "file": "day/hall.rgbm.webp",
+        "range": 6.6992
+      },
+      "private-hall": {
+        "file": "day/private-hall.rgbm.webp",
+        "range": 5.8906
+      },
+      "family": {
+        "file": "day/family.rgbm.webp",
+        "range": 4.1699
+      },
+      "master": {
+        "file": "day/master.rgbm.webp",
+        "range": 3.9746
+      },
+      "bathroom": {
+        "file": "day/bathroom.rgbm.webp",
+        "range": 2.9004
+      },
+      "bedroom": {
+        "file": "day/bedroom.rgbm.webp",
+        "range": 4.4434
+      },
+      "balcony": {
+        "file": "day/balcony.rgbm.webp",
+        "range": 3.1543
+      }
+    },
+    "evening": {
+      "overview": {
+        "file": "evening/overview.rgbm.webp",
+        "range": 3.8846
+      },
+      "entrance": {
+        "file": "evening/entrance.rgbm.webp",
+        "range": 2.3701
+      },
+      "guest-bath": {
+        "file": "evening/guest-bath.rgbm.webp",
+        "range": 2.0947
+      },
+      "reception": {
+        "file": "evening/reception.rgbm.webp",
+        "range": 2.7128
+      },
+      "kitchen": {
+        "file": "evening/kitchen.rgbm.webp",
+        "range": 3.6112
+      },
+      "hall": {
+        "file": "evening/hall.rgbm.webp",
+        "range": 6.4648
+      },
+      "private-hall": {
+        "file": "evening/private-hall.rgbm.webp",
+        "range": 5.7969
+      },
+      "family": {
+        "file": "evening/family.rgbm.webp",
+        "range": 3.6426
+      },
+      "master": {
+        "file": "evening/master.rgbm.webp",
+        "range": 3.0762
+      },
+      "bathroom": {
+        "file": "evening/bathroom.rgbm.webp",
+        "range": 2.666
+      },
+      "bedroom": {
+        "file": "evening/bedroom.rgbm.webp",
+        "range": 3.2596
+      },
+      "balcony": {
+        "file": "evening/balcony.rgbm.webp",
+        "range": 1.2939
+      }
+    }
+  }
+}

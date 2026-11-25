@@ -1,0 +1,40 @@
+{
+  "source": "HAMMAMI.pdf",
+  "sha256": "5a61c00b5e49a4e3ff9a660983a337e5e2f005059a1b85fdfcd5b0038a907c79",
+  "page": 1,
+  "method": "Native image extraction and luminance isolation of the authentic artwork",
+  "regions": {
+    "mark": [
+      1080,
+      420,
+      2550,
+      1510
+    ],
+    "wordmark-ar": [
+      1000,
+      1555,
+      2580,
+      1895
+    ],
+    "wordmark-en": [
+      1030,
+      1920,
+      2550,
+      2135
+    ]
+  },
+  "recolour": {
+    "date": "2026-10-03",
+    "method": "Alpha kept from the extracted artwork; RGB set to exact guide colours (white #FFFFFF, Luxury Gold #B08D57, Deep Blue #0B2545) to remove navy edge contamination from the extraction",
+    "originals": "source/",
+    "wordmark-en": "Alpha rescaled (90th-percentile core to opaque) because the luminance key left gold letters at 75% opacity"
+  },
+  "derived": {
+    "mark-navy.png": "Primary (light-background) version",
+    "wordmark-ar-navy.png": "Primary (light-background) version",
+    "favicon-32.png": "Digital icon: white mark on Deep Blue tile",
+    "icon-192.png": "App icon",
+    "icon-512.png": "App icon",
+    "apple-touch-icon.png": "Home-screen icon"
+  }
+}

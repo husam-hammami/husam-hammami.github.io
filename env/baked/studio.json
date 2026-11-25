@@ -1,0 +1,17 @@
+{
+  "width": 768,
+  "height": 1024,
+  "colorSpace": "srgb-linear",
+  "mapping": 306,
+  "flipY": false,
+  "minFilter": 1006,
+  "magFilter": 1006,
+  "file": "studio-ec1f694ee99b.rgba16f.bin",
+  "sha256": "ec1f694ee99bd7e1a8ba4db7640a285761f9a0142925cc1aec38d1105f6e077e",
+  "source": "Three r185 RoomEnvironment, PMREM.fromScene(room, 0.035)",
+  "generator": "tools/bake-environments.mjs",
+  "type": "HalfFloatType",
+  "channels": 4,
+  "encoding": "gzip",
+  "byteLength": 6291456
+}
