@@ -2,12 +2,14 @@
   "version": 1,
   "atlases": {
     "exterior": {
-      "file": "store-exterior-gi.rgbm.webp",
+      "file": "store-exterior-irradiance.webp",
+      "encoding": "sqrt-rgb",
       "range": 1.0,
       "size": 2048
     },
     "interior": {
-      "file": "store-interior-gi.rgbm.webp",
+      "file": "store-interior-irradiance.webp",
+      "encoding": "sqrt-rgb",
       "range": 1.85,
       "size": 1024
     },
